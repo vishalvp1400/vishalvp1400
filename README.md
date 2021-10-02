@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishalvp1400
 - 👀 I’m interested in Python Coding
 - 🌱 I’m currently learning Msc In IT
-- 💞️ I’m looking to collaborate on Pthon Developer
+- 💞️ I’m looking to collaborate on Python Developer
 - 📫 How to reach me shubhp123@gmail.com
 
 <!---
